@@ -1,15 +1,10 @@
 {
-  "ID": "AP41.240726.010",
-  "BRAND": "google",
-  "DEVICE": "komodo",
-  "TYPE": "user",
-  "TAGS": "release-keys",
-  "FINGERPRINT": "google/komodo_beta/komodo:15/AP41.240726.010/12266677:user/release-keys",
+  "PRODUCT": "tokay_beta",
+  "DEVICE": "tokay",
   "MANUFACTURER": "Google",
-  "MODEL": "Pixel 9 Pro XL",
-  "PRODUCT": "komodo_beta",
-  "INCREMENTAL": "12266677",
-  "RELEASE": "15",
-  "SECURITY_PATCH": "2024-08-05",
-  "DEVICE_INITIAL_SDK_INT": "32"
+  "BRAND": "google",
+  "MODEL": "Pixel 9",
+  "FINGERPRINT": "google/tokay_beta/tokay:15/AP41.240823.009/12329489:user/release-keys",
+  "SECURITY_PATCH": "2024-09-05",
+  "FIRST_API_LEVEL": "null"
 }
