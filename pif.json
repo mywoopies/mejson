@@ -1,11 +1,10 @@
 {
-  "ID": "AP31.240617.015",
-  "BRAND": "google",
-  "DEVICE": "akita",
-  "FINGERPRINT": "google/akita_beta/akita:15/AP31.240617.015/12207491:user/release-keys",
+  "PRODUCT": "tokay_beta",
+  "DEVICE": "tokay",
   "MANUFACTURER": "Google",
-  "MODEL": "Pixel 8a",
-  "PRODUCT": "akita_beta",
-  "SECURITY_PATCH": "2024-08-05",
-  "DEVICE_INITIAL_SDK_INT": "24"
+  "BRAND": "google",
+  "MODEL": "Pixel 9",
+  "FINGERPRINT": "google/tokay_beta/tokay:15/AP41.240823.009/12329489:user/release-keys",
+  "SECURITY_PATCH": "2024-09-05",
+  "FIRST_API_LEVEL": "null"
 }
